@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tutor Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="textLvl1Main">Установка и настройка среды разработки Eclipse Android SDK</string>
+    <string name="player_error">Error</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2194506014524922/6667282696</string>
+</resources>
